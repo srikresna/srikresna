@@ -14,11 +14,11 @@
 
 <code><img height="50" src="https://nyesteventuretech.com/images/Machine-Learning.jpg"></code
 <code><img height="50" src="http://tekclouddesigns.com/wp-content/uploads/2022/07/ai.jpg"></code>
-<code><img height="50" src="![image](https://user-images.githubusercontent.com/28501206/204068247-ebda1151-390a-4513-bcc2-9fb55fc4d2fe.png)"></code>
-<code><img height="50" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
 <!--
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
