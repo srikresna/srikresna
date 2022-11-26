@@ -14,6 +14,7 @@
 
 <code><img height="50" src="https://nyesteventuretech.com/images/Machine-Learning.jpg"></code
 <code><img height="50" src="http://tekclouddesigns.com/wp-content/uploads/2022/07/ai.jpg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ml/ml.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
