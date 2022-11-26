@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:srikresna383@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/srikresna)
 
-<img width="45%" align="left" alt="Kresna's github stats" src="https://github-readme-stats.gopla.vercel.app/api?username=SriKresna&show_icons=true&theme=random" />
+<img width="45%" align="left" alt="Kresna's github stats" src="https://github-readme-stats.gopla.vercel.app/api?username=srikresna&show_icons=true&theme=random" />
 <img width="50%" align="left" alt="Animation" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
 <!-- ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random) -->
 
