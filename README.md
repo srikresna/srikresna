@@ -6,16 +6,17 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/srikresna)
 
 <img width="45%" align="left" alt="Kresna's github stats" src="https://github-readme-stats.gopla.vercel.app/api?username=srikresna&show_icons=true&theme=random" />
-<img width="50%" align="left" alt="Animation" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
-<!-- ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random) -->
+<!-- ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=@username&show_icons=true&theme=random) -->
 
 ## Keep Coding && Keep Going
 
-- 🌱 I’m currently learning AI, Iot, PHP, Javascript and Java
+- 🌱 I’m currently learning Machine Learning, AI, Python and Java
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/codeigniter.svg"></code>
+<code><img height="50" src="https://nyesteventuretech.com/images/Machine-Learning.jpg"></code
+<code><img height="50" src="http://tekclouddesigns.com/wp-content/uploads/2022/07/ai.jpg"></code>
+<code><img height="50" src="![image](https://user-images.githubusercontent.com/28501206/204068247-ebda1151-390a-4513-bcc2-9fb55fc4d2fe.png)"></code>
+<code><img height="50" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"></code>
+<!--
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -24,7 +25,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-
+-->
 
 <!---
 srikresna/srikresna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
