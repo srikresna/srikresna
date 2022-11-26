@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:srikresna383@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/srikresna)
 
-<img width="45%" align="left" alt="Kresna's github stats" src="https://github-readme-stats.gopla.vercel.app/api?username=srikresna&show_icons=true&theme=random" />
+<img width="45%" align="left" alt="Kresna's github stats" src="https://github-readme-stats-gopla.vercel.app/api?username=srikresna&show_icons=true&theme=random" />
 <!-- ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=@username&show_icons=true&theme=random) -->
 
 ## Keep Coding && Keep Going
