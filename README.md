@@ -16,6 +16,11 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
+## Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=srikresna">
+</a>
+<a href="https://github.com/srikresna?tab=followers"><img src="https://img.shields.io/github/followers/srikresna?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
 srikresna/srikresna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
