@@ -21,7 +21,7 @@
 <a href="https://github.com/srikresna/github-readme-stats"><img alt="Kresna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikresna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
                                                              
                                                              
-## Views and Followers
+## \nViews and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=srikresna">
 </a>
