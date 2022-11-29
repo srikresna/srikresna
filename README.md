@@ -20,8 +20,8 @@
 <img width="45%" align="left" alt="Kresna's github stats" src="https://github-readme-stats-gopla.vercel.app/api?username=srikresna&show_icons=true&theme=random" />
 <a href="https://github.com/srikresna/github-readme-stats"><img alt="Kresna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikresna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
                                                              
-                                                             
-## \nViews and Followers
+##                                                             
+## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=srikresna">
 </a>
