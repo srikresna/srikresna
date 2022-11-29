@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:srikresna383@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/srikresna)
 
-<img width="45%" align="left" alt="Kresna's github stats" src="https://github-readme-stats-gopla.vercel.app/api?username=srikresna&show_icons=true&theme=random" />
+
 <!-- ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=@username&show_icons=true&theme=random) -->
 
 ## Keep Coding && Keep Going
@@ -16,7 +16,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-## Language
+## Stats
+<img width="45%" align="left" alt="Kresna's github stats" src="https://github-readme-stats-gopla.vercel.app/api?username=srikresna&show_icons=true&theme=random" />
 <a href="https://github.com/srikresna/github-readme-stats"><img alt="Kresna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikresna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
                                                              
                                                              
