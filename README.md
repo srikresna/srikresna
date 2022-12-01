@@ -15,6 +15,12 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+
+
+
 
 ## Stats
 <img width="45%" align="left" alt="Kresna's github stats" src="https://github-readme-stats-gopla.vercel.app/api?username=srikresna&show_icons=true&theme=random" />
