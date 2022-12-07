@@ -5,7 +5,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:srikresna383@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/srikresna)
 
-
 - 🌱 I’m currently learning Machine Learning, AI, Python and Java
 
 ## Languages and Tools
