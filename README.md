@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:srikresna383@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/srikresna)
 
--  I’m currently learning Machine Learning, AI, Python and Java
+I’m currently learning Machine Learning, AI, Python and Java 
 
 ## Languages and Tools
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png"></code>
