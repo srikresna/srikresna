@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm currently learning about Machine Learning, Data Science, Java and Kotlin
+I'm currently learning about Machine Learning, Data Science, Java and Kotlin.
 
 
 ## 🌐 Socials:
